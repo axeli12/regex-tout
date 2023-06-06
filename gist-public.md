@@ -60,6 +60,11 @@ As the expression is ending there is a closing tag before the `$` this will look
 
  There are no flags in this expression.
 
+ Some examples of flags are 
+ * `g` Makes the expression match all occurrences
+ * `i` Makes the expression case sensitive
+ * `m` Makes the expression search on multiple lines
+
  ### Grouping and Capturing
 
  Groups are formed with the parentheses, what they are used for is to capture parts of a match. 
